@@ -2,7 +2,7 @@ My first Git App
 ---
 
 
-# About
+# About GIT
 
 Stuff about Git here...
 
