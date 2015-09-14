@@ -4,5 +4,5 @@ My first Git App
 
 # About GIT
 
-Stuff about Git here...
+Git has been around for a bunch of years. Its a good idea to undersand get well. Then you will be a ninja
 
