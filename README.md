@@ -4,5 +4,5 @@ My first Git App
 
 # About GIT
 
-Stuff about Git here...
+Git is bomb. This is the best thing ever. 
 
